@@ -23,3 +23,6 @@ YOURS2OURS is a community-based platform that connects neighbors through skill e
 **Members**
 
 Damayan, Zyrus Lindlie M. - FrontEnd Developer
+Sastado, Vrenda Yziella C. - BackEnd Developer
+Furto, Benhar F. - Documentation
+
